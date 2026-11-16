@@ -1,0 +1,9 @@
+{
+    "version":  "1.3.0",
+    "fecha":  "2026-11-16",
+    "paquete":  "https://github.com/canadaconoruderk-design/asistente-docente-entregas/releases/download/act-1.3.0/paquete.bin",
+    "sha256":  "9971fc0e04aa31b37d82732c585d655c2109c1cd8122fde274c55fd51ada88ef",
+    "novedades":  [
+                      "Me actualizo solo. Cuando salga una versión nueva, te aviso, te cuento qué trae y te pregunto si la instalo. Si me decís que sí, hago todo yo: vos no tenés que tocar nada."
+                  ]
+}
