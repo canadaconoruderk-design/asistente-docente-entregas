@@ -1,9 +1,10 @@
 {
-    "version":  "1.4.0",
+    "version":  "1.5.0",
     "fecha":  "2026-11-18",
-    "paquete":  "https://github.com/canadaconoruderk-design/asistente-docente-entregas/releases/download/act-1.4.0-dzdy/paquete.bin",
-    "sha256":  "5d25d5f26b56ceb9b8bb7a0ad0931e0a8430ee3e0d43431f048ef6108ba2f7bb",
+    "paquete":  "https://github.com/canadaconoruderk-design/asistente-docente-entregas/releases/download/act-1.5.0-ytg9/paquete.bin",
+    "sha256":  "28624c22dce13c49742731514e242e991508fda04ac28b00e1ffb35cf2d466ca",
     "novedades":  [
-                      "Busco y bajo lo que haga falta. Si para un trabajo necesito el diseño curricular, una resolución, un audio para el acto o un documento que me pasaste por link, lo busco en internet y lo bajo yo. Queda guardado con la página de donde salió, para citarlo. Nunca bajo programas."
+                      "Lo que te armo, no me lo olvido. Cada programa, juego o ayudante que te haga queda guardado con nombre propio, y me acuerdo de que existe en todas las conversaciones. Además, lo pruebo después de cada actualización para que siga andando.",
+                      "Si me pedís lo mismo varias veces, te ofrezco dejarlo hecho para que salga con un clic."
                   ]
 }
