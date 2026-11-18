@@ -1,9 +1,9 @@
 {
-    "version":  "1.3.0",
-    "fecha":  "2026-11-16",
-    "paquete":  "https://github.com/canadaconoruderk-design/asistente-docente-entregas/releases/download/act-1.3.0-qjym/paquete.bin",
-    "sha256":  "6b0a1d9c9b22a09e12ba07afa60ac892442ec77627f45a339ca069979528d32b",
+    "version":  "1.4.0",
+    "fecha":  "2026-11-18",
+    "paquete":  "https://github.com/canadaconoruderk-design/asistente-docente-entregas/releases/download/act-1.4.0-dzdy/paquete.bin",
+    "sha256":  "5d25d5f26b56ceb9b8bb7a0ad0931e0a8430ee3e0d43431f048ef6108ba2f7bb",
     "novedades":  [
-                      "Me actualizo solo. Cuando salga una versión nueva, te aviso, te cuento qué trae y te pregunto si la instalo. Si me decís que sí, hago todo yo: vos no tenés que tocar nada."
+                      "Busco y bajo lo que haga falta. Si para un trabajo necesito el diseño curricular, una resolución, un audio para el acto o un documento que me pasaste por link, lo busco en internet y lo bajo yo. Queda guardado con la página de donde salió, para citarlo. Nunca bajo programas."
                   ]
 }
